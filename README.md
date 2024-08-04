@@ -4,7 +4,7 @@ Shortcut to this repository: https://ebmgt.github.io/clinician_culture
 
 <ul>
   <!--<li><a href="https://github.com/ebmgt/clinician_culture/tree/main/data_and_code">Data and code</a></li>-->
-  <li><a href="[https://www.zotero.org/groups/612700/thriving.worksites/collections/PWNDFUL3](https://github.com/ebmgt/clinician_culture/tree/main/results)">Table of results</a></li>
+  <li><a href="https://github.com/ebmgt/clinician_culture/tree/main/results">Table of results</a></li>
   <li><a href="https://www.zotero.org/groups/612700/thriving.worksites/collections/PWNDFUL3">Bibliography (Zotero)</a></li>
 </ul>
 
