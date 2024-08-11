@@ -28,6 +28,8 @@ References:
 7. Rose AJ, Petrakis BA, Callahan P, Mambourg S, Patel D, Hylek EM, Bokhour BG. Organizational characteristics of high- and low-performing anticoagulation clinics in the Veterans Health Administration. Health Serv Res. 2012 Aug;47(4):1541–1560. PMID: [22299722](http://pubmed.gov/22299722)
 ##### Study(s) excluded
 ##### New study(s) undergoing review
+1.  Nordin H, Mathisen G, Rørtveit K, Joa I, Johannessen J, Ruud T, Hartveit M. Implementing Clinical Guidelines for the Treatment of Psychosis: The Frontline Leaders’ Point of View. A Qualitative Study. JHL. 2024 Feb;Volume 16:93–104. DOI [10.2147/JHL.S430285](http://doi.org/10.2147/JHL.S430285)
+
 
 ----------------------------------
 You are encouraged to build on this project and reuse this file which is shared [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
