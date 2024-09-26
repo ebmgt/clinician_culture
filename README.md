@@ -2,15 +2,20 @@
 
 Shortcut to this repository: https://ebmgt.github.io/clinician_culture
 
-<ul>
-  <!--<li><a href="https://github.com/ebmgt/clinician_culture/tree/main/data_and_code">Data and code</a></li>-->
-  <li><a href="https://github.com/ebmgt/clinician_culture/tree/main/results">Table of results</a></li>
-  <li><a href="https://www.zotero.org/groups/612700/thriving.worksites/collections/PWNDFUL3">Bibliography (Zotero)</a></li>
-</ul>
+Clinicians need to collaborate and work with others (Mehrotra, 2006). How do we create a culture of collaboration?
+
+### Methods
+ - [Methods](https://github.com/ebmgt/clinician_culture/tree/main/methods)
+
+### Current results
+- [Studies (Zotero)](https://www.zotero.org/groups/612700/thriving.worksites/collections/PWNDFUL3)
+- [Table of results](https://github.com/ebmgt/clinician_culture/tree/main/results)
 
 References:
 ----------------------------------
 ### Methods
+#### Background
+1. Mehrotra A, Epstein AM, Rosenthal MB. Do integrated medical groups provide higher-quality medical care than individual practice associations? Ann Intern Med. 2006 Dec 5;145(11):826-33. doi: 10.7326/0003-4819-145-11-200612050-00007. PMID: [17146067](http://pubmed.gov/17146067).
 #### Meta-narrative
 1. Wong G, Greenhalgh T, Westhorp G, Buckingham J, Pawson R. RAMESES publication standards: meta-narrative reviews. BMC Med. 2013 Jan 29;11:20. doi: 10.1186/1741-7015-11-20. PMID: [23360661](http://pubmed.gov/23360661); PMCID: PMC3558334.
 2. Wong G, Greenhalgh T, Westhorp G, Pawson R. Development of methodological guidance, publication standards and training materials for realist and meta-narrative reviews: the RAMESES (Realist And Meta-narrative Evidence Syntheses – Evolving Standards) project [Internet]. Southampton (UK): NIHR Journals Library; 2014. Available from: http://www.ncbi.nlm.nih.gov/books/NBK260013/ PMID: [25642521](http://pubmed.gov/25642521)
