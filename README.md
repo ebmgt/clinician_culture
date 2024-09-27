@@ -1,6 +1,8 @@
 <h1>Clinician Culture: a meta-narrative of positive deviance studies</h1>
 
-Shortcut to this repository: https://ebmgt.github.io/clinician_culture
+Shortcuts to this repository: 
+- https://ebmgt.github.io/clinician_culture
+- [DOI 10.17605/OSF.IO/T9V6F](http://doi.org/10.17605/OSF.IO/T9V6F)
 
 Clinicians need to collaborate and work with others (Mehrotra, 2006); however, physicians may have difficulty with this role (Oxford, 2021). This project aims to use a meta-narrative of positive deviance studies to describe the tactics of clinicians who have successfully collaborated.
 
@@ -44,6 +46,6 @@ References:
 You are encouraged to build on this project and reuse this file which is shared [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
 
 Please cite this Table in any reuse as:
-1. Citation pending. [add date of your download]. Available at [https://ebmgt.github.io/clinician_culture/](https://ebmgt.github.io/clinician_culture/) .
+1. Clinician Culture: a meta-narrative of positive deviance studies. [add date of your download]. DOI 10.17605/OSF.IO/T9V6F. Available at [https://ebmgt.github.io/clinician_culture/](https://ebmgt.github.io/clinician_culture/) .
 
 <div><a href="https://github.com/ebmgt/clinician_culture/edit/main/README.md">Edit this page</a></div>
