@@ -44,10 +44,13 @@ References:
 2.  Resnik L, Jensen GM. Using clinical outcomes to explore the theory of expert practice in physical therapy. Phys Ther. 2003 Dec;83(12):1090-106. PMID: [14640868](http://pubmed.gov/14640868).
 3.  Succar B, Hazime A, Johnston M, Daniel W, Holroyd AF, Dumas RP. Lead the room: Impact of leadership style on team resilience among trainees in the trauma bay. J Trauma Acute Care Surg. 2025 Jul 1;99(1):89-95. doi: 10.1097/TA.0000000000004635. Epub 2025 May 6. PMID: [40327368](http://pubmed.gov/40327368).
 
+Cited by:
 ----------------------------------
+1. Badgett RG, Emberson J, Singhal A. Physician Humility: Expanding Methods of Research and Intervention using Positive Deviance and Meta-narrative. Annals of Internal Medicine, 2024 Available at https://www.acpjournals.org/doi/abs/10.7326/M24-0842?af=R#comments-section
+
 You are encouraged to build on this project and reuse this file which is shared [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
 
 Please cite this Table in any reuse as:
 1. Clinician Culture: a meta-narrative of positive deviance studies. [add date of your download]. DOI 10.17605/OSF.IO/T9V6F. Available at [https://ebmgt.github.io/clinician_culture/](https://ebmgt.github.io/clinician_culture/) .
-
+----------------------------------
 <div><a href="https://github.com/ebmgt/clinician_culture/edit/main/README.md">Edit this page</a></div>
