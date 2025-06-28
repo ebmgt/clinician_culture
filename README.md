@@ -42,6 +42,7 @@ References:
 ##### New study(s) undergoing review
 1.  Nordin HMA, Mathisen GE, Rørtveit K, Joa I, Johannessen JO, Ruud T; et al. (2024). "Implementing Clinical Guidelines for the Treatment of Psychosis: The Frontline Leaders' Point of View. A Qualitative Study". J Healthc Leadership. 16: 93–104. doi:[10.2147/JHL.S430285](http://doi.org/10.2147/JHL.S430285). PMC 10910968 . PMID [38440078](http://pubmed.gov/38440078) .
 2.  Resnik L, Jensen GM. Using clinical outcomes to explore the theory of expert practice in physical therapy. Phys Ther. 2003 Dec;83(12):1090-106. PMID: [14640868](http://pubmed.gov/14640868).
+3.  Succar B, Hazime A, Johnston M, Daniel W, Holroyd AF, Dumas RP. Lead the room: Impact of leadership style on team resilience among trainees in the trauma bay. J Trauma Acute Care Surg. 2025 Jul 1;99(1):89-95. doi: 10.1097/TA.0000000000004635. Epub 2025 May 6. PMID: [40327368](http://pubmed.gov/40327368).
 
 ----------------------------------
 You are encouraged to build on this project and reuse this file which is shared [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
