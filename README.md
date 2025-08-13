@@ -44,6 +44,9 @@ References:
 2.  Resnik L, Jensen GM. Using clinical outcomes to explore the theory of expert practice in physical therapy. Phys Ther. 2003 Dec;83(12):1090-106. PMID: [14640868](http://pubmed.gov/14640868).
 3.  Succar B, Hazime A, Johnston M, Daniel W, Holroyd AF, Dumas RP. Lead the room: Impact of leadership style on team resilience among trainees in the trauma bay. J Trauma Acute Care Surg. 2025 Jul 1;99(1):89-95. doi: 10.1097/TA.0000000000004635. Epub 2025 May 6. PMID: [40327368](http://pubmed.gov/40327368).
 
+##### Studies excluded 
+1. Liu, L., Lai, W. W., Li, B. W., Wang, S. H., Yu, M. M., Liu, Y. C., & Chai, Y. F. (2025). Prediction model of in-hospital mortality risk in intensive care unit patients with cardiac arrest: a multicenter retrospective cohort study based on an ensemble model. Frontiers in Cardiovascular Medicine, 12, 1582636. DOI: [10.3389/fcvm.2025.1582636](https://doi.org/10.3389/fcvm.2025.1582636) *No data on culture* 
+
 Cited by:
 ----------------------------------
 1. Badgett RG, Emberson J, Singhal A. Physician Humility: Expanding Methods of Research and Intervention using Positive Deviance and Meta-narrative. Annals of Internal Medicine, 2024 Available at https://www.acpjournals.org/doi/abs/10.7326/M24-0842?af=R#comments-section
