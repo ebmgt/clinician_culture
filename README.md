@@ -46,7 +46,8 @@ References:
 4.  Wahle CF, Ryder M, Berkane R, Mao YV, de Virgilio C, Bazargan-Hejazi S. Formal leadership curriculum in United States surgical residency programs: a systematic review. Global Surgical Education-Journal of the Association for Surgical Education. 2025 Oct 7;4(1):84. DOI: [10.1007/s44186-025-00394-2](https://doi.org/10.1007/s44186-025-00394-2). From PubMed weekly search 2025-10-14
 
 ##### Studies excluded 
-1. Liu, L., Lai, W. W., Li, B. W., Wang, S. H., Yu, M. M., Liu, Y. C., & Chai, Y. F. (2025). Prediction model of in-hospital mortality risk in intensive care unit patients with cardiac arrest: a multicenter retrospective cohort study based on an ensemble model. Frontiers in Cardiovascular Medicine, 12, 1582636. DOI: [10.3389/fcvm.2025.1582636](https://doi.org/10.3389/fcvm.2025.1582636) *No data on culture* 
+1. Liu, L., Lai, W. W., Li, B. W., Wang, S. H., Yu, M. M., Liu, Y. C., & Chai, Y. F. (2025). Prediction model of in-hospital mortality risk in intensive care unit patients with cardiac arrest: a multicenter retrospective cohort study based on an ensemble model. Frontiers in Cardiovascular Medicine, 12, 1582636. DOI: [10.3389/fcvm.2025.1582636](https://doi.org/10.3389/fcvm.2025.1582636) *No data on culture*
+2. Stocker MD, Schaeffer C, Cox R, Tew E, Jensen K, Smith K, Sexton M, Bales B, Belghit A, Andereck JW, Johnson DP, Champion JC, Stubblefield WB. Improving Door-to-ECG Time at a Quaternary Care Emergency Department. Jt Comm J Qual Patient Saf. 2025 Nov;51(11):701-710. doi: 10.1016/j.jcjq.2025.07.009. Epub 2025 Aug 5. PMID: 40962602. *From Clarvariate Web of Science daily search: No data on culture*
 
 Cited by:
 ----------------------------------
