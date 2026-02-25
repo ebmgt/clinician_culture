@@ -6,6 +6,8 @@ Shortcuts to this repository:
 
 Clinicians need to collaborate and work with others (Mehrotra, 2006); however, physicians may have difficulty with this role (Oxford, 2021). This project aims to use a meta-narrative of positive deviance studies to describe the tactics of clinicians who have successfully collaborated.
 
+The quality of clinician culture can be very apparent to observers Surgical services in the Veterans Affairs facilities were clasified into positive and negative outliers in surgical morbidity and mortality rates. Masked site visit teams correctly identified 17 of te 20 services classification (Daley J, Forbes MG, Young GJ, Charns MP, Gibbs JO, Hur K, Henderson W, Khuri SF. Validating risk-adjusted surgical outcomes: site visit assessment of process and structure. National VA Surgical Risk Study. J Am Coll Surg. 1997 OPMID: [9328382](https://pubmed.gov/9328382)).
+
 ### Methods
  - [Methods](https://github.com/ebmgt/clinician_culture/tree/main/methods)
 
