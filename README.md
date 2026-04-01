@@ -44,12 +44,14 @@ References:
 ##### New study(s) undergoing review
 1.  Nordin HMA, Mathisen GE, Rørtveit K, Joa I, Johannessen JO, Ruud T; et al. (2024). "Implementing Clinical Guidelines for the Treatment of Psychosis: The Frontline Leaders' Point of View. A Qualitative Study". J Healthc Leadership. 16: 93–104. doi:[10.2147/JHL.S430285](http://doi.org/10.2147/JHL.S430285). PMC 10910968 . PMID [38440078](http://pubmed.gov/38440078) .
 2.  Resnik L, Jensen GM. Using clinical outcomes to explore the theory of expert practice in physical therapy. Phys Ther. 2003 Dec;83(12):1090-106. PMID: [14640868](http://pubmed.gov/14640868).
-3.  Succar B, Hazime A, Johnston M, Daniel W, Holroyd AF, Dumas RP. Lead the room: Impact of leadership style on team resilience among trainees in the trauma bay. J Trauma Acute Care Surg. 2025 Jul 1;99(1):89-95. doi: 10.1097/TA.0000000000004635. Epub 2025 May 6. PMID: [40327368](http://pubmed.gov/40327368).
+3.  Succar B, Hazime A, Johnston M, Daniel W, Holroyd AF, Dumas RP. Lead the room: Impact of leadership style on team resilience among trainees in the trauma bay. J Trauma Acute Care Surg. 2025 Jul 1;99(1):89-95. doi: [10.1097/TA.0000000000004635](https://doi.org/10.1097/TA.0000000000004635). Epub 2025 May 6. PMID: [40327368](http://pubmed.gov/40327368).
 4.  Wahle CF, Ryder M, Berkane R, Mao YV, de Virgilio C, Bazargan-Hejazi S. Formal leadership curriculum in United States surgical residency programs: a systematic review. Global Surgical Education-Journal of the Association for Surgical Education. 2025 Oct 7;4(1):84. DOI: [10.1007/s44186-025-00394-2](https://doi.org/10.1007/s44186-025-00394-2). From PubMed weekly search 2025-10-14
 
 ##### Studies excluded 
 1. Liu, L., Lai, W. W., Li, B. W., Wang, S. H., Yu, M. M., Liu, Y. C., & Chai, Y. F. (2025). Prediction model of in-hospital mortality risk in intensive care unit patients with cardiac arrest: a multicenter retrospective cohort study based on an ensemble model. Frontiers in Cardiovascular Medicine, 12, 1582636. DOI: [10.3389/fcvm.2025.1582636](https://doi.org/10.3389/fcvm.2025.1582636) *No data on culture*
 2. Stocker MD, Schaeffer C, Cox R, Tew E, Jensen K, Smith K, Sexton M, Bales B, Belghit A, Andereck JW, Johnson DP, Champion JC, Stubblefield WB. Improving Door-to-ECG Time at a Quaternary Care Emergency Department. Jt Comm J Qual Patient Saf. 2025 Nov;51(11):701-710. doi: 10.1016/j.jcjq.2025.07.009. Epub 2025 Aug 5. PMID: 40962602. *From Clarvariate Web of Science daily search: No data on culture*
+3. Scanlon M, Barling J, Pupco S, Granger S, Turner N, Akers A, et al. Transformational and directive leadership in the operating room: Complementary effects under surgical complexity. J Occupat &amp; Organ Psyc. 2026 Mar;99(1):e70091. doi:[10.1111/joop.70091](https://doi.org/10.1111/joop.70091)  From Clarivate search 2026-04-01 *No narrative results*
+
 
 Cited by:
 ----------------------------------
