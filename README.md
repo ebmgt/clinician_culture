@@ -55,6 +55,8 @@ References:
 5. van Heijl I, van den Eijnde SE, Schweitzer VA, van Werkhoven CH, Hulscher ME, van der Linden PD, Bonten MJ. Process evaluation of an effective Antimicrobial Stewardship intervention in hospitalized patients with community-acquired pneumonia. Antimicrobial Stewardship & Healthcare Epidemiology. 2026 Jan;6(1):e82. DOI: [10.1017/ash.2026.10340](https://doi.org/10.1017/ash.2026.10340) * From Clarivate update. Not relevant, no postiive deviance analysis *
 6. Lagging E, Larsson K, Forinder U, Tibell A, Gyllström Krekula L. Factors that create trust in the donation after circulatory death process among surgical personnel: a qualitative descriptive study. BMC Health Serv Res. 2026 Apr 14;26(1):535. PMID: [41981409](https://pubmed.gov/41981409) * From Clarivate update. Not relevant, no postiive deviance analysis *
 
+##### Studies excluded but helpful:
+1.Chen Y, Zhang Y, Zhang J, Luo J. Facilitators of and barriers to teamwork between operating room nurses and other practitioners: a meta-synthesis of qualitative studies. BMJ Open. 2026 PMID: [41946551](https://pubmed.gov/41946551). * Did not provide quotes beyond single words from investigates, yet results are relevant*
 
 Cited by:
 ----------------------------------
