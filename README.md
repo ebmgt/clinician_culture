@@ -61,7 +61,9 @@ References:
 10. Först G, Probst W, Ranft D, Baumann J, Hilgarth H. Status quo des Antibiotic Stewardship in deutschen Krankenhäusern aus der Perspektive der Krankenhausapotheker*innen – Ergebnisse der ADKA-Umfrage 2023 [The current state of antibiotic stewardship in German hospitals from the perspective of hospital pharmacists - Results of the ADKA survey 2023]. Z Evid Fortbild Qual Gesundhwes. 2026 May;202:25-33. German. doi: 10.1016/j.zefq.2026.02.002. Epub 2026 Mar 28. PMID: [41904113](https://pubmed.gov/41904113) * No positive deviance analysis *.
 11. Toma D, Bedreag OH, Andrei D, Păpurică M, Bârsac CR, Băloi A, Rogobete A, Ghenciu LA, Săndesc D. Implementation of a Rapid Response System in a University Hospital: Impact on In-Hospital Mortality and Surgical Patient Outcomes. J Clin Med. 2026 Apr 30;15(9):3443. doi: 10.3390/jcm15093443. PMID: [42123176](https://pubmed.gov/42123176) * Not a PD study *
 12. Sanchez JA. Leadership by Design: Building Physician Leadership Skills Across the Professional Lifespan. J Healthc Manag. 2026 May-Jun 01;71(3):160-165. doi: 10.1097/JHM-D-26-00073. PMID: [42160179](https://pubmed.gov/42160179). * Not a research study *
-13. Nasr D. Cross-Cultural Management as an Organizational Performance Enabler: Managing Sociocultural Tensions Through Multilevel Leadership Strategies. Thunderbird International Business Review. 2026 May 25;n/a(n/a). doi:[10.1002/tie.70139](https://doi.org/10.1002/tie.70139) *Not an original studies; reviews study that do not qualify * 
+13. Nasr D. Cross-Cultural Management as an Organizational Performance Enabler: Managing Sociocultural Tensions Through Multilevel Leadership Strategies. Thunderbird International Business Review. 2026 May 25;n/a(n/a). doi:[10.1002/tie.70139](https://doi.org/10.1002/tie.70139) *Not an original studies; reviews study that do not qualify *
+14. Choi S, Kim SR, Park D. Educational needs and training program for rapid response team nurses in hospital settings: A scoping review. Australian Critical Care. 2026 Jun 1;39(3):101594. doi:[10.1016/j.aucc.2026.101594](https://doi.org/10.1016/j.aucc.2026.101594) *A review*
+
 
 
 ##### Studies excluded but helpful:
