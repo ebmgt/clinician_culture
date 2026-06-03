@@ -63,6 +63,7 @@ References:
 12. Sanchez JA. Leadership by Design: Building Physician Leadership Skills Across the Professional Lifespan. J Healthc Manag. 2026 May-Jun 01;71(3):160-165. doi: 10.1097/JHM-D-26-00073. PMID: [42160179](https://pubmed.gov/42160179). * Not a research study *
 13. Nasr D. Cross-Cultural Management as an Organizational Performance Enabler: Managing Sociocultural Tensions Through Multilevel Leadership Strategies. Thunderbird International Business Review. 2026 May 25;n/a(n/a). doi:[10.1002/tie.70139](https://doi.org/10.1002/tie.70139) *Not an original studies; reviews study that do not qualify *
 14. Choi S, Kim SR, Park D. Educational needs and training program for rapid response team nurses in hospital settings: A scoping review. Australian Critical Care. 2026 Jun 1;39(3):101594. doi:[10.1016/j.aucc.2026.101594](https://doi.org/10.1016/j.aucc.2026.101594) *A review*
+15. Luca, V.M.D., Varni, G. & Passerini, A. Boosting Team Modeling through Tempo–Relational Representation Learning. Cogn Comput 18, 61 (2026). [https://doi.org/10.1007/s12559-026-10581-y](https://doi.org/https://doi.org/10.1007/s12559-026-10581-y) *From Clarivate Web of Science search 2026-06-02. Not relevant*
 
 
 
