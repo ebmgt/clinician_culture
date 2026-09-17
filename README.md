@@ -41,14 +41,6 @@ References:
 7. Rose AJ, Petrakis BA, Callahan P, Mambourg S, Patel D, Hylek EM, Bokhour BG. Organizational characteristics of high- and low-performing anticoagulation clinics in the Veterans Health Administration. Health Serv Res. 2012 Aug;47(4):1541–1560. PMID: [22299722](http://pubmed.gov/22299722)
 
 ##### Study(s) excluded
-##### New study(s) undergoing review
-1.  Nordin HMA, Mathisen GE, Rørtveit K, Joa I, Johannessen JO, Ruud T; et al. (2024). "Implementing Clinical Guidelines for the Treatment of Psychosis: The Frontline Leaders' Point of View. A Qualitative Study". J Healthc Leadership. 16: 93–104. doi:[10.2147/JHL.S430285](http://doi.org/10.2147/JHL.S430285). PMC 10910968 . PMID [38440078](http://pubmed.gov/38440078) .
-2.  Resnik L, Jensen GM. Using clinical outcomes to explore the theory of expert practice in physical therapy. Phys Ther. 2003 Dec;83(12):1090-106. PMID: [14640868](http://pubmed.gov/14640868).
-3.  Succar B, Hazime A, Johnston M, Daniel W, Holroyd AF, Dumas RP. Lead the room: Impact of leadership style on team resilience among trainees in the trauma bay. J Trauma Acute Care Surg. 2025 Jul 1;99(1):89-95. doi: [10.1097/TA.0000000000004635](https://doi.org/10.1097/TA.0000000000004635). Epub 2025 May 6. PMID: [40327368](http://pubmed.gov/40327368).
-4.  Wahle CF, Ryder M, Berkane R, Mao YV, de Virgilio C, Bazargan-Hejazi S. Formal leadership curriculum in United States surgical residency programs: a systematic review. Global Surgical Education-Journal of the Association for Surgical Education. 2025 Oct 7;4(1):84. DOI: [10.1007/s44186-025-00394-2](https://doi.org/10.1007/s44186-025-00394-2). From PubMed weekly search 2025-10-14
-5.  Abahuje E, Cong L, Nguyen M, Iroz CB, Stey A, Johnson JK, Halverson A. Relationship Between Surgeon Nontechnical Skills and Operating Team Efficiency: A Mixed-Methods Study. J Am Coll Surg. 2026 Feb 1;242(2):379-388. doi: 10.1097/XCS.0000000000001671. Epub 2026 Jan 15. PMID: [41123197](https://pubmed.gov/41123197). ). From PubMed weekly search 2026-05-30
-
-##### Studies excluded 
 1. Liu, L., Lai, W. W., Li, B. W., Wang, S. H., Yu, M. M., Liu, Y. C., & Chai, Y. F. (2025). Prediction model of in-hospital mortality risk in intensive care unit patients with cardiac arrest: a multicenter retrospective cohort study based on an ensemble model. Frontiers in Cardiovascular Medicine, 12, 1582636. DOI: [10.3389/fcvm.2025.1582636](https://doi.org/10.3389/fcvm.2025.1582636) *No data on culture*
 2. Stocker MD, Schaeffer C, Cox R, Tew E, Jensen K, Smith K, Sexton M, Bales B, Belghit A, Andereck JW, Johnson DP, Champion JC, Stubblefield WB. Improving Door-to-ECG Time at a Quaternary Care Emergency Department. Jt Comm J Qual Patient Saf. 2025 Nov;51(11):701-710. doi: 10.1016/j.jcjq.2025.07.009. Epub 2025 Aug 5. PMID: 40962602. *From Clarvariate Web of Science daily search: No data on culture*
 3. Scanlon M, Barling J, Pupco S, Granger S, Turner N, Akers A, et al. Transformational and directive leadership in the operating room: Complementary effects under surgical complexity. J Occupat &amp; Organ Psyc. 2026 Mar;99(1):e70091. doi:[10.1111/joop.70091](https://doi.org/10.1111/joop.70091)  From Clarivate search 2026-04-01 *No narrative results*
@@ -65,10 +57,16 @@ References:
 14. Choi S, Kim SR, Park D. Educational needs and training program for rapid response team nurses in hospital settings: A scoping review. Australian Critical Care. 2026 Jun 1;39(3):101594. doi:[10.1016/j.aucc.2026.101594](https://doi.org/10.1016/j.aucc.2026.101594) *A review*
 15. Luca, V.M.D., Varni, G. & Passerini, A. Boosting Team Modeling through Tempo–Relational Representation Learning. Cogn Comput 18, 61 (2026). [https://doi.org/10.1007/s12559-026-10581-y](https://doi.org/https://doi.org/10.1007/s12559-026-10581-y) *From Clarivate Web of Science search 2026-06-02. Not relevant*
 
-
-
 ##### Studies excluded but helpful:
 1.Chen Y, Zhang Y, Zhang J, Luo J. Facilitators of and barriers to teamwork between operating room nurses and other practitioners: a meta-synthesis of qualitative studies. BMJ Open. 2026 PMID: [41946551](https://pubmed.gov/41946551). * Did not provide quotes beyond single words from investigates, yet results are relevant*
+
+##### New study(s) undergoing review
+1.  Nordin HMA, Mathisen GE, Rørtveit K, Joa I, Johannessen JO, Ruud T; et al. (2024). "Implementing Clinical Guidelines for the Treatment of Psychosis: The Frontline Leaders' Point of View. A Qualitative Study". J Healthc Leadership. 16: 93–104. doi:[10.2147/JHL.S430285](http://doi.org/10.2147/JHL.S430285). PMC 10910968 . PMID [38440078](http://pubmed.gov/38440078) .
+2.  Resnik L, Jensen GM. Using clinical outcomes to explore the theory of expert practice in physical therapy. Phys Ther. 2003 Dec;83(12):1090-106. PMID: [14640868](http://pubmed.gov/14640868).
+3.  Succar B, Hazime A, Johnston M, Daniel W, Holroyd AF, Dumas RP. Lead the room: Impact of leadership style on team resilience among trainees in the trauma bay. J Trauma Acute Care Surg. 2025 Jul 1;99(1):89-95. doi: [10.1097/TA.0000000000004635](https://doi.org/10.1097/TA.0000000000004635). Epub 2025 May 6. PMID: [40327368](http://pubmed.gov/40327368).
+4.  Wahle CF, Ryder M, Berkane R, Mao YV, de Virgilio C, Bazargan-Hejazi S. Formal leadership curriculum in United States surgical residency programs: a systematic review. Global Surgical Education-Journal of the Association for Surgical Education. 2025 Oct 7;4(1):84. DOI: [10.1007/s44186-025-00394-2](https://doi.org/10.1007/s44186-025-00394-2). From PubMed weekly search 2025-10-14
+5.  Abahuje E, Cong L, Nguyen M, Iroz CB, Stey A, Johnson JK, Halverson A. Relationship Between Surgeon Nontechnical Skills and Operating Team Efficiency: A Mixed-Methods Study. J Am Coll Surg. 2026 Feb 1;242(2):379-388. doi: 10.1097/XCS.0000000000001671. Epub 2026 Jan 15. PMID: [41123197](https://pubmed.gov/41123197). ). From PubMed weekly search 2026-05-30
+6.  Rattray NA, Flanagan ME, Donnelly CE, Myers JL, Madrigal CB, Schubert CC, Schwartzkopf AL, Myers LJ, Jindal SK, Burke RE, Leykum LK, Anderson ML, Hartronft SR, Bravata DM. Role clarity and organizational capacity as prerequisites for reducing readmissions: Comparing high- and low-performing VA facilities. J Hosp Med. 2026 Sep 10. doi: [10.1002/jhm.70447](https://doi.org/10.1002/jhm.70447). Epub ahead of print. PMID: [42720105](https://pubmed.gov/42720105). From Web of Science search 2026-09-17
 
 Cited by:
 ----------------------------------
