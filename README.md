@@ -68,6 +68,8 @@ References:
 5.  Abahuje E, Cong L, Nguyen M, Iroz CB, Stey A, Johnson JK, Halverson A. Relationship Between Surgeon Nontechnical Skills and Operating Team Efficiency: A Mixed-Methods Study. J Am Coll Surg. 2026 Feb 1;242(2):379-388. doi: 10.1097/XCS.0000000000001671. Epub 2026 Jan 15. PMID: [41123197](https://pubmed.gov/41123197). ). From PubMed weekly search 2026-05-30
 6.  Rattray NA, Flanagan ME, Donnelly CE, Myers JL, Madrigal CB, Schubert CC, Schwartzkopf AL, Myers LJ, Jindal SK, Burke RE, Leykum LK, Anderson ML, Hartronft SR, Bravata DM. Role clarity and organizational capacity as prerequisites for reducing readmissions: Comparing high- and low-performing VA facilities. J Hosp Med. 2026 Sep 10. doi: [10.1002/jhm.70447](https://doi.org/10.1002/jhm.70447). Epub ahead of print. PMID: [42720105](https://pubmed.gov/42720105). From Web of Science search 2026-09-17
 7.  Rossong H, Veilleux C, Oesch JM, Casha S, Riva-Cambrin J. Leading the Way: An Overview of Leadership in Canadian Academic Neurosurgery. Neurosurg Pract. 2026 Oct 23;7(6):e000305. doi: [10.1227/neuprac.0000000000000305](https://doi.org/10.1227/neuprac.0000000000000305). PMID: [42910100](https://pubmed.gov/42910100); PMCID: [PMC13686729](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13686729).
+8. Edmondson AC. Speaking Up in the Operating Room: How Team Leaders Promote Learning in Interdisciplinary Action Teams. Journal of Management Studies. 2003;40(6):1419–52. doi:[10.1111/1467-6486.00386](https://doi.org/10.1111/1467-6486.00386) Found in citations by Leroy. The Devil is in the Details: Zooming out in Leadership Research [10.1111/joms.70013](https://doi.org/10.1111/joms.70013) 2026-11-02
+
 
 Cited by:
 ----------------------------------
